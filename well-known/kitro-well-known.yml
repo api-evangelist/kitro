@@ -1,0 +1,48 @@
+generated: '2026-07-19'
+method: probed
+source: live probes of www.kitro.ch and my.kitro.ch
+summary: >-
+  No /.well-known/ discovery documents are published on the KITRO hosts. Every
+  probed path returned 404 (absence is valid data). KITRO does publish an
+  llms.txt at https://www.kitro.ch/llms.txt (200) — saved verbatim in
+  llms/kitro-llms.txt — but no security.txt, OpenID/OAuth metadata, API catalog
+  or AI plugin manifest. KITRO runs no public developer program: the only
+  authenticated surface is the customer dashboard at https://my.kitro.ch/.
+hosts:
+- host: www.kitro.ch
+  paths:
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /.well-known/openid-configuration
+    status: 404
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+  - path: /.well-known/api-catalog
+    status: 404
+  - path: /.well-known/ai-plugin.json
+    status: 404
+  - path: /llms.txt
+    status: 200
+    file: ../llms/kitro-llms.txt
+  - path: /robots.txt
+    status: 200
+  - path: /sitemap.xml
+    status: 200
+- host: my.kitro.ch
+  paths:
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /.well-known/openid-configuration
+    status: 404
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+  - path: /.well-known/api-catalog
+    status: 404
+  - path: /.well-known/ai-plugin.json
+    status: 404
+  - path: /llms.txt
+    status: 404
+files:
+- path: /llms.txt
+  host: www.kitro.ch
+  file: ../llms/kitro-llms.txt

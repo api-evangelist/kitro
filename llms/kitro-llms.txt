@@ -1,0 +1,195 @@
+# KITRO
+
+> KITRO is a AI-powered food waste management for commercial and professional kitchens, across hotels, resorts, hospitals, cruises, schools & universities, and canteens.
+
+Languages: en, de, fr, es
+
+---
+
+## 🇬🇧 English
+
+### About
+
+KITRO is a Swiss company founded in 2017 that helps professional kitchens reduce food waste through AI-powered automation. We combine IoT devices, computer vision, and data analytics to make food waste tracking seamless and actionable.
+
+
+### What We Do
+
+KITRO provides an automated food waste tracking solution for hospitality and food service businesses worldwide. Our system uses:
+
+- **KITRO TARE**: An AI-powered scale and camera device that automatically identifies and weighs food waste
+- **Analytics Dashboard**: Real-time insights and actionable recommendations
+- **Expert Consulting**: Personalized support to help kitchens optimize operations
+
+### Key Benefits
+
+- Reduce food waste by up to 60%
+- Increase food profit margins by 8%
+- Lower carbon footprint
+- No workflow disruption - plug and play installation
+- Automated data collection with AI recognition
+
+### Industries We Serve
+
+Hotels and hospitality, hospitals and healthcare, universities and schools, corporate catering and canteens, restaurants and cruise ships
+
+### Results
+
+Our clients typically achieve: up to 60% reduction in food waste, significant CO₂ reduction, compliance with growing EU food waste regulations
+
+---
+
+## 🇩🇪 Deutsch
+
+### Über uns
+
+KITRO ist ein Schweizer Unternehmen, das 2017 gegründet wurde und professionellen Küchen hilft, Lebensmittelabfälle durch KI-gestützte Automatisierung zu reduzieren. Wir kombinieren IoT-Geräte, Computer Vision und Datenanalyse, um die Verfolgung von Lebensmittelabfällen nahtlos und umsetzbar zu machen.
+
+### Was wir tun
+
+KITRO bietet eine automatisierte Lösung zur Verfolgung von Lebensmittelabfällen für Gastronomie- und Foodservice-Unternehmen weltweit. Unser System nutzt:
+
+- **KITRO TARE**: Ein KI-gesteuertes Waagen- und Kameragerät, das Lebensmittelabfälle automatisch erkennt und wiegt
+- **Analytics Dashboard**: Echtzeiteinblicke und umsetzbare Empfehlungen
+- **Expertenberatung**: Personalisierte Unterstützung zur Optimierung des Küchenbetriebs
+
+### Hauptvorteile
+
+- Reduzierung von Lebensmittelabfällen um bis zu 60%
+- Steigerung der Lebensmittelgewinnmarge um 8%
+- Senkung des CO₂-Fußabdrucks
+- Keine Arbeitsablaufstörung - Plug-and-Play-Installation
+- Automatische Datenerfassung mit KI-Erkennung
+
+### Branchen, die wir bedienen
+
+Hotels und Gastgewerbe, Krankenhäuser und Gesundheitswesen, Universitäten und Schulen, Betriebsgastronomie und Kantinen, Restaurants und Kreuzfahrtschiffe
+
+### Ergebnisse
+
+Unsere Kunden erreichen typischerweise: 60% Reduktion von Lebensmittelabfällen, signifikante CO₂-Reduktion, Einhaltung der EU-Lebensmittelabfall-Vorschriften
+
+---
+
+## 🇫🇷 Français
+
+### À propos
+
+KITRO est une entreprise suisse fondée en 2017 qui aide les cuisines professionnelles à réduire le gaspillage alimentaire grâce à l'automatisation basée sur l'IA. Nous combinons des appareils IoT, la vision par ordinateur et l'analyse de données pour rendre le suivi du gaspillage alimentaire transparent et exploitable.
+
+### Ce que nous faisons
+
+KITRO fournit une solution automatisée de suivi du gaspillage alimentaire pour les entreprises d'hôtellerie et de restauration dans le monde entier. Notre système utilise :
+
+- **KITRO TARE** : Une balance et caméra alimentées par l'IA qui identifie et pèse automatiquement les déchets alimentaires
+- **Tableau de bord analytique** : Informations en temps réel et recommandations exploitables
+- **Conseil d'experts** : Support personnalisé pour optimiser les opérations de cuisine
+
+### Avantages clés
+
+- Réduction du gaspillage alimentaire jusqu'à 60%
+- Augmentation des marges bénéficiaires alimentaires de 8%
+- Réduction de l'empreinte carbone
+- Aucune perturbation du flux de travail - installation plug and play
+- Collecte automatique de données avec reconnaissance IA
+
+### Industries que nous servons
+
+Hôtels et hospitalité, hôpitaux et soins de santé, universités et écoles, restauration collective et cantines, restaurants et navires de croisière
+
+### Résultats
+
+Nos clients obtiennent généralement : 60% de réduction du gaspillage alimentaire, réduction significative du CO₂, conformité avec les réglementations européennes sur le gaspillage alimentaire
+
+---
+
+## 🇪🇸 Español
+
+### Acerca de
+
+KITRO es una empresa suiza fundada en 2017 que ayuda a las cocinas profesionales a reducir el desperdicio de alimentos mediante automatización impulsada por IA. Combinamos dispositivos IoT, visión por computadora y análisis de datos para hacer que el seguimiento del desperdicio de alimentos sea fluido y procesable.
+
+
+### Lo que hacemos
+
+KITRO proporciona una solución automatizada de seguimiento de desperdicio de alimentos para empresas de hospitalidad y servicios de alimentos en todo el mundo. Nuestro sistema utiliza:
+
+- **KITRO TARE**: Un dispositivo de báscula y cámara con IA que identifica y pesa automáticamente el desperdicio de alimentos
+- **Panel de análisis**: Información en tiempo real y recomendaciones procesables
+- **Consultoría experta**: Soporte personalizado para optimizar las operaciones de cocina
+
+### Beneficios clave
+
+- Reducción del desperdicio de alimentos hasta un 60%
+- Aumento de los márgenes de beneficio alimentario en un 8%
+- Reducción de la huella de carbono
+- Sin interrupción del flujo de trabajo - instalación plug and play
+- Recopilación automática de datos con reconocimiento de IA
+
+### Industrias que servimos
+
+Hoteles y hospitalidad, hospitales y atención médica, universidades y escuelas, catering corporativo y comedores, restaurantes y cruceros
+
+### Resultados
+
+Nuestros clientes generalmente logran: 60% de reducción en desperdicio de alimentos, reducción significativa de CO₂, cumplimiento con las regulaciones de la UE sobre desperdicio de alimentos
+
+---
+
+## Company Information
+
+**Founded**: 2017  
+**Headquarters**: Hermetschloostrasse 77, 8048 Zürich, Switzerland  
+**Global Presence**: Active in 20+ countries  
+**Team**: 45+ employees including engineers, sustainability experts, and chefs  
+**Founders**: Anastasia Hofmann and Naomi MacKenzie (hospitality professionals)
+
+## Contact
+
+- **Email**: info@kitro.ch
+- **Website**: https://www.kitro.ch
+- **Book a Demo**: https://www.kitro.ch/contact
+
+## Key Pages
+
+- Home: https://www.kitro.ch/
+- Food Waste Solution: https://www.kitro.ch/solution
+- Industries: https://www.kitro.ch/industries
+- Resources & Case Studies: https://www.kitro.ch/resources
+- About Us: https://www.kitro.ch/about
+- Careers: https://www.kitro.ch/careers
+- Contact: https://www.kitro.ch/contact
+
+## Featured Case Studies
+
+- Marriott Hotels: Sustainable change implementation
+- TUI BLUE Kalamota Island: Significant cost savings
+- Sydney Opera Bar: Major food waste reduction
+- EHL (École hôtelière de Lausanne): Transforming hospitality education
+- Hospital case: CHF 45,000 saved in 18 months with 55,000 patients
+
+## Technology
+
+- Swiss-developed artificial intelligence
+- Computer vision for automatic food identification
+- IoT scale and camera technology
+- Cloud-based analytics platform
+- Real-time data processing and insights
+
+## Social Media
+
+- LinkedIn: https://www.linkedin.com/company/kitro/
+- Instagram: https://www.instagram.com/kitro_foodwaste/
+- Facebook: https://www.facebook.com/KITROFoodWaste/
+
+## Recognition & Partners
+
+- Venture Kick backed (CHF investment program for Swiss startups)
+- Innosuisse Scale-up Coaching program participant
+- World Economic Forum partner
+- SwissRE partner
+- Multiple sustainability and innovation awards
+
+---
+
+Last updated: February 2026

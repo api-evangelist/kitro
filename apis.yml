@@ -10,6 +10,17 @@ description: KITRO is a Swiss company founded in 2017 in Zurich that helps profe
   Pestana, 25hours Hotels and Sydney Opera Bar. KITRO publishes no public developer API, SDKs or developer
   portal — the only customer-facing software surface is the authenticated dashboard at my.kitro.ch — but it does
   publish an llms.txt agent-readable company description at www.kitro.ch/llms.txt.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown

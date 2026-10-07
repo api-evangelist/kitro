@@ -1,0 +1,33 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://www.kitro.ch/pricing
+sources:
+- https://www.kitro.ch/pricing
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: tiered-subscription
+delivery:
+  delivery: managed
+  method: page
+  read: '2026-10-07'
+published: true
+note: Hardware-plus-subscription food waste solution; Business tier from CHF349/month, Enterprise custom.
+  Currency toggle CHF/EUR/USD shown.
+plan_count: 2
+currency: CHF
+plans:
+- name: Business
+  price_text: From CHF349 /month
+  price: 349
+  currency: CHF
+  period: month
+  included_quota: KITRO TARE rental, dashboard access, dedicated food waste expert; ideal for properties
+    with one kitchen
+- name: enterprise
+  price_text: Custom
+  period: none
+  included_quota: Scalable pricing based on operational complexity, not device count
